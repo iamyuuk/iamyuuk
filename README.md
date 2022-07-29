@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hey Guys! 👋
 
-<!--
-**iamyuuk/iamyuuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![vscode](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img src="https://github-readme-stats.vercel.app/api?username=iamyuuk&show_icons=true&count_private=true&hide=prs&theme=default_repocard" align="right" />
+
+
+- A Chinese middle school student
+- A studio's captain
+- A Minecraft server's owner
+  > Watting......
+
+### Learning and using
+
+[![java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://java.com/)
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id=iamyuuk.profile)
