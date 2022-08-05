@@ -10,7 +10,7 @@
 - A Chinese middle school student
 - A studio's captain
 - A Minecraft server's owner
-  > Watting......
+
 
 ### Learning and using
 
