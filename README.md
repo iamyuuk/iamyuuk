@@ -6,7 +6,7 @@
 
 
 - A Chinese middle school student
-- A studio's captain
+- A studio's director
 - A Minecraft server's owner
 
 
