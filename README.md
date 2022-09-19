@@ -2,8 +2,8 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamyuuk&show_icons=true&count_private=true&hide=prs&theme=default_repocard" align="right" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=iamyuuk&show_icons=true&count_private=true&hide=prs&theme=default_repocard" align="right" /><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamyuuk&layout=compact)](https://github.com/iamyuuk/github-readme-stats)
 
 - A Chinese middle school student
 - A studio's director
@@ -24,5 +24,4 @@
 
 ![java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![python](https://img.shields.io/badge/-python-blue?style=for-the-badge&logo=Python&logoColor=white)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamyuuk&layout=compact)](https://github.com/iamyuuk/github-readme-stats)<br>
 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
