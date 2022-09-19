@@ -3,7 +3,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=iamyuuk&show_icons=true&count_private=true&hide=prs&theme=default_repocard" align="right" />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamyuuk)](https://github.com/iamyuuk/github-readme-stats)
 
 - A Chinese middle school student
 - A studio's director
@@ -22,7 +22,7 @@
 
 ### Learning & Using
 
-![java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=OracleJDK&logoColor=white)
+![java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![python](https://img.shields.io/badge/-python-blue?style=for-the-badge&logo=Python&logoColor=white)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id=iamyuuk.profile)
+![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
