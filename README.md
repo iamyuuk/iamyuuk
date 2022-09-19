@@ -22,7 +22,7 @@
 
 ### Learning & Using
 
-![java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=OpenJDK&logoColor=white)
-
+![java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=OracleJDK&logoColor=white)
+![python](https://img.shields.io/badge/-python-blue?style=for-the-badge&logo=Python&logoColor=white)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id=iamyuuk.profile)
