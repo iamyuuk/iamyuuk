@@ -5,10 +5,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=iamyuuk&show_icons=true&count_private=true&hide=prs&theme=default_repocard" align="right" />
 
 
-- A Chinese middle school student
-- A studio's director
-- A Minecraft server's owner
-
 
 ### Using Tools
 ![idea](https://img.shields.io/badge/-pycharm-black?style=for-the-badge&logo=pycharm&logoColor=white)
