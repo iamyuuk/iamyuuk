@@ -23,6 +23,4 @@
 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 
 
-### My Websites
-![bilibili](https://img.shields.io/badge/-bilibili-black?style=for-the-badge&logo=bilibili&logoColor=white)<br>
-Search 宇宇YuuK
+
