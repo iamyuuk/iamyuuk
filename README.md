@@ -19,7 +19,8 @@
 ### Learning & Using
 
 ![java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=OpenJDK&logoColor=white)
-![python](https://img.shields.io/badge/-python-blue?style=for-the-badge&logo=Python&logoColor=white)<br>
+![python](https://img.shields.io/badge/-python-blue?style=for-the-badge&logo=Python&logoColor=white)
+### Visitors
 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 
 
