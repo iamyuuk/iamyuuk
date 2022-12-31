@@ -1,11 +1,4 @@
 # Hey Guys! 👋
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamyuuk&layout=compact)](https://github.com/iamyuuk/github-readme-stats)
-
-
-
-
 ### Using Tools
 ![idea](https://img.shields.io/badge/-pycharm-black?style=for-the-badge&logo=pycharm&logoColor=white)
 ![pycharm](https://img.shields.io/badge/-idea-black?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -21,6 +14,7 @@
 ![java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![python](https://img.shields.io/badge/-python-blue?style=for-the-badge&logo=Python&logoColor=white)
 ### Visitors
+
 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 
 
