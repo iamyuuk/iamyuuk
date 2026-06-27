@@ -18,6 +18,9 @@
 - 🧑‍💻 使用 **Claude Code** 作为我的 AI 编程搭档 / Coding with **Claude Code** as my AI pair-programmer
 - 🌱 正在学习 **Python** 与 **Rust** / Currently learning **Python** & **Rust**
 - 🎮 运营着一个 Minecraft 服务器 / Running a Minecraft server
+- 🌐 服务器官网：[**mcmik.top**](https://mcmik.top)
+- 📝 博客：[**yuuk.top**](https://yuuk.top)
+- 🎯 下一个目标 / Next goal：用 Rust 写一个 Minecraft 相关工具
 
 ---
 
@@ -96,18 +99,15 @@
 <a href="mailto:biliyuuk@qq.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://mcmik.top">
-  <img alt="Website" src="https://img.shields.io/badge/🌐_mcmik.top-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<a href="https://x.com/BiliYuuK">
+  <img alt="Twitter / X" src="https://img.shields.io/badge/X-@BiliYuuK-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<!-- TODO: 添加更多社交链接 / add more social links below -->
-<!--
-<a href="#">
-  <img alt="Twitter / X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="#">
+<a href="https://space.bilibili.com/453813003">
   <img alt="bilibili" src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" />
 </a>
--->
+<a href="https://yuuk.top">
+  <img alt="Blog" src="https://img.shields.io/badge/Blog-yuuk.top-FF5722?style=for-the-badge&logo=hugo&logoColor=white" />
+</a>
 
 </div>
 
