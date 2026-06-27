@@ -87,31 +87,24 @@
   </picture>
 </div>
 
-> ⚠️ **启用方法**：参考 [Platane/snk](https://github.com/Platane/snk) 在仓库里添加一个 GitHub Action，即可自动生成上面的蛇形动画。
-
----
-
 ### 🤝 Connect · 联系方式
 
 <div align="center">
 
-<!-- TODO: 替换 href 里的链接为你的地址；不需要的删掉即可 -->
-<!-- TODO: replace href with your own links; delete whatever you don't need -->
-
 <a href="mailto:biliyuuk@qq.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="#">
-  <img alt="Blog" src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+<a href="tencent://message/?uin=2704804982">
+  <img alt="QQ" src="https://img.shields.io/badge/QQ-2704804982-EB1923?style=for-the-badge&logo=tencentqq&logoColor=white" />
 </a>
-<a href="#">
-  <img alt="Twitter / X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+<a href="https://x.com/BiliYuuK">
+  <img alt="Twitter / X" src="https://img.shields.io/badge/X-@BiliYuuK-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<a href="#">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="#">
+<a href="https://space.bilibili.com/453813003">
   <img alt="bilibili" src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" />
+</a>
+<a href="https://yuuk.top">
+  <img alt="Blog" src="https://img.shields.io/badge/Blog-yuuk.top-FF5722?style=for-the-badge&logo=hugo&logoColor=white" />
 </a>
 
 </div>
