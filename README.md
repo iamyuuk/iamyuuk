@@ -20,7 +20,6 @@
 - 🎮 运营着一个 Minecraft 服务器 / Running a Minecraft server
 - 🌐 服务器官网：[**mcmik.top**](https://mcmik.top)
 - 📝 博客：[**yuuk.top**](https://yuuk.top)
-- 🎯 下一个目标 / Next goal：用 Rust 写一个 Minecraft 相关工具
 
 ---
 
