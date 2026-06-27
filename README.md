@@ -86,9 +86,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iamyuuk/iamyuuk/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-> ⚠️ 需要添加 [snk](https://github.com/Platane/snk) 的 GitHub Action 才能自动生成上方动画。
-
 ---
 
 ### 🤝 Connect · 联系方式
