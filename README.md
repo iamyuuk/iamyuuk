@@ -17,6 +17,7 @@
 ### 👤 About Me · 关于我
 
 <!-- TODO: 写 3-5 句自己的介绍 -->
+
 - 🧑‍💻 I'm a student.
 - 🌱 Learning AI, Python, Rust, Java
 
@@ -24,34 +25,24 @@
 
 ### 🛠️ Tech Stack · 技术栈
 
-> *The tools I reach for most often — feel free to borrow the badge pattern for yours.*
+> _The tools I reach for most often._
 
 <div align="center">
-
-<!-- ═══════ Languages ═══════ -->
-<!-- TODO: replace with your own languages -->
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-<br/>
-
-<!-- ═══════ Frameworks ═══════ -->
-<!-- TODO: replace with your own frameworks -->
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-<br/>
-
-<!-- ═══════ DevOps & Tools ═══════ -->
-<!-- TODO: replace with your own tools -->
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img alt="Gemini" src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge" />
+<img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-4D67BF?style=for-the-badge" />
+<img alt="Agnes" src="https://img.shields.io/badge/Agnes-7C3AED?style=for-the-badge" />
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
+---
+
+### 🌱 Currently Learning · 正在学习
+
+<div align="center">
+<img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
 ---
@@ -77,7 +68,7 @@
 
 ### 🐍 Contribution Snake · 贪吃蛇
 
-> *A fun way to visualize your commit history — every pixel is a contribution.*
+> _A fun way to visualize your commit history — every pixel is a contribution._
 
 <div align="center">
   <picture>
@@ -103,7 +94,7 @@
 <a href="https://space.bilibili.com/453813003">
   <img alt="bilibili" src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" />
 </a>
-<a href="https://yuuk.top">
+<a href="https://blog.yuuk.top">
   <img alt="Blog" src="https://img.shields.io/badge/Blog-yuuk.top-FF5722?style=for-the-badge&logo=hugo&logoColor=white" />
 </a>
 
